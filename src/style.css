@@ -9,6 +9,9 @@ button {
 	height: 2.5rem;
 	border: 1px solid white;
 	border-radius: 25px;
+	a{
+		text-decoration: none;
+	}
 }
 
 header {
